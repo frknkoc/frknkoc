@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **frameworks**
+- 🌱 I’m currently learning **"Swift Development"**
 
 - 📫 How to reach me **furkan.koc.488@gmail.com**
 
